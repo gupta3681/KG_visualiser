@@ -8,3 +8,4 @@ python-dotenv
 langchain_openai 
 streamlit
 langchain-neo4j
+pyvis
